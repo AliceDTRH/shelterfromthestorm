@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# RULES 
 
-You can use the [editor on GitHub](https://github.com/AliceDTRH/shelterfromthestorm/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+* (NO RDM)
+no random killing you have to have a reason EX. raid, mugging,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* (NO RDA) 
+don't randomly arrest people
 
-### Markdown
+* (DON'T NLR) 
+ if you die act like a new person, Dont go back to the spot you died till 10 mins
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* (DON'T SELF SUPPLY)
+don't turn into gun dealer and buying weapon's for your self
 
-```markdown
-Syntax highlighted code block
+* (DON'T LTAP)
+don't leave during something EX. raid, geting mugged, talking to admin, being arrest,
 
-# Header 1
-## Header 2
-### Header 3
+* (DON'T METAGAME)
+when one transfers RP data to Non Role-play data EX. 
+You're a swat, and player 1 was killed by player 2 cause player 2 mugged him, so you watch the kill chat and make player 2 wanted and arrest him.
 
-- Bulleted
-- List
+* (DON'T PROP BLOCK)
+dont block important stuff with prop EX someone base, city hall, road
 
-1. Numbered
-2. List
+* (DON'T PROP KILL)
+Dont kill people with props
 
-**Bold** and _Italic_ and `Code` text
+* (DONT OVER MUG AND RAID)
+15 mins to mug the same person, 45 mins to raid somone again, 30 mins to kidnapp someone again
 
-[Link](url) and ![Image](src)
-```
+* (DON'T HARRASS PEOPLE)
+follow people, annoy people
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AliceDTRH/shelterfromthestorm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* (DON'T BE MEAN TO ADMIN'S)
+don't be mean or annoy admins
