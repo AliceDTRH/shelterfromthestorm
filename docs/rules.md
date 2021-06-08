@@ -1,3 +1,9 @@
+<script>
+ window.setTimeout(function () {
+  window.location.reload();
+}, 30000);
+</script>
+
 This server is still under construction. This means that it may have to be restarted sometimes and that it's okay to mess around a little on your own as long as you're not bothering others. That doesn't mean you can cause issues for others though and if you do you **will** be warned/kicked or banned.
 
 # RULES 
