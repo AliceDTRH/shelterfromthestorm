@@ -64,3 +64,12 @@ The minimal age for our server is 13. If we have reason to believe you are young
 * (NO DISCRIMINATION)
 We will not accept **any** discrimination based on race, sexual orientation or gender. Any discrimination will lead to long term bans.
 
+* (NO PROXY'S / ACCOUNT SHARING / BAN EVADING / MULTIACCOUNTS)
+In order to uphold the other rules we do not allow the usage of multiple steam accounts for multiple accounts, account sharing, public proxy's (including tor) or evading bans in other ways. Family sharing (a steam feature) *is* allowed but discouraged because if any of the accounts that use an account for family sharing get banned, *all* of them get banned. 
+
+# Notes
+* (Read the rules) Not knowing the rules is not going to help you and will be noted down as a zero point warning to show other admins you didn't bother reading the rules.
+* (Protect your account!) You are responsible for your account, if your little brother hopped on your account or if you shared your password/account or just didn't protect it well there is no way for us to know if you are telling the truth.
+* (Don't play when you're impaired.) If you're playing and you're drunk you still have to follow the rules. If we believe you're drunk or impaired in some other way we will give you a kick to try to convince you to go to sleep. If you rejoin and are still clearly drunk/impaired we will ban you until the following morning. This is to protect you from breaking the rules while impaired and regretting it later.
+
+
