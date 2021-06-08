@@ -45,7 +45,7 @@ Wait at least 15 minutes between mugs or raid of the same group and persons.
 * (NO EXCESSIVE CURSING)
 While it's okay to sometimes say things like fuck this, fuck it please do not excessively curse.
 
-#No exception/warning rules
+# No exception/warning rules
 The following rules are to protect the safety of our users and/or to uphold the core principles of the server.
 Punishments for these rules are often severe (long time / permaban) and in some cases may even lead to us contacting the police or other relevant authorities.
 
