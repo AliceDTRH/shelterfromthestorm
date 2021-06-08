@@ -79,3 +79,5 @@ In order to uphold the other rules we do not allow the usage of multiple steam a
 * (Don't play when you're impaired.) If you're playing and you're drunk you still have to follow the rules. If we believe you're drunk or impaired in some other way we will give you a kick to try to convince you to go to sleep. If you rejoin and are still clearly drunk/impaired we will ban you until the following morning. This is to protect you from breaking the rules while impaired and regretting it later.
 
 
+<span id="time"></span>
+<script>document.getElementById('time').innerHTML = Date();</script>
