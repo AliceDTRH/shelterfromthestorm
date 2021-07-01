@@ -26,7 +26,9 @@ Do not arrest people without them having broken a city law.
  if you die act like a new person. Don't take revenge and don't go back to the spot you died for at least a 3 minutes or until the raid/event that caused you to get killed has ended.
 
 * (DON'T SELF SUPPLY)
-As a gun dealer, your are not allowed to buy more than one gun for yourself.
+As a gun dealer, your are not allowed to buy more than one gun for yourself. Don't switch teams just to use printers.
+
+* (ROLEPLAY YOUR TEAM PROPERLY) Use common sense: Police are supposed to destroy printers, not use them. Police would not team with the maffia. Police is not "corrupt". A corrupt cop is called a criminal, switch your team if you're corrupt.
 
 * (DON'T LTAP)
 Don't leave right after killing someone, getting mugged, getting a message from a staff member, getting called into a sit or other events that could cause negative actions to occur for you. If you have a **valid** reason for leaving, contact an admin first and give them the reason you have to leave and when you'll be back.
